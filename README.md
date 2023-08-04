@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=3AF738&pause=1000&width=550&repeat=false&lines=Hi+there%2C+I'm+Pimkin+Nikita!%F0%9F%91%8B)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=3AF738&multiline=true&width=550&repeat=false&height=200&lines=I'm+a+Python+Developer+with+a+strong;+Computer+Science+base.;Now+I'm+learning+GO+and+also+improving;my+general+skills+as+a+Software+Developer.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=3AF738&multiline=true&width=550&repeat=false&height=220&lines=I'm+a+Python+Developer+with+a+strong;+Computer+Science+base.;Now+I'm+learning+GO+and+also+improving;my+general+skills+as+a+Software+Developer.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=3AF738&multiline=true&width=550&lines=You+can+contact+me+by+email;pimkinnikita%40gmail.com)](https://git.io/typing-svg)
 <!--
 
