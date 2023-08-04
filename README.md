@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pimkin+Nikita!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Python+Developer+with+a+strong+Computer+Science+base.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=I'm+a+Python+Developer+with+a+strong+Computer+Science+base.)](https://git.io/typing-svg)
+
+
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikpim)](https://github.com/anuraghazra/github-readme-stats)
