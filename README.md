@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F767&width=435&lines=Hi+there%2C+I'm+Pimkin+Nikita!);I'm+a+Python+Developer+with+a+strong+Computer+Science+base.;Now+I'm+learning+GO+and+continue+developing+my+skills+in+Software+Development.)](https://git.io/typing-svg)
 
 <!--
 
