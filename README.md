@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=3CFF3AFF&pause=1000&width=550&repeat=false&lines=Hi+there%2C+I'm+Pimkin+Nikita!%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=3CFF3AFF&multiline=true&width=550&repeat=false&height=160&lines=I'm+a+Python+Developer+with;a+strong+Computer+Science+base.;Now+I'm+learning+GO+and+also+improving;my+general+skills+as+a+Software+Developer.;You+can+contact+me+by+email:;pimkinnikita%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=37E935FF&pause=1000&width=550&repeat=false&lines=Hi+there%2C+I'm+Pimkin+Nikita!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=37E935FF&multiline=true&width=550&repeat=false&height=160&lines=I'm+a+Python+Developer+with+a+strong;Computer+Science+base.;Now+I'm+learning+GO+and+also+improving;my+general+skills+as+a+Software+Developer.;You+can+contact+me+by+email:;pimkinnikita%40gmail.com)](https://git.io/typing-svg)
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikpim)](https://github.com/anuraghazra/github-readme-stats)
